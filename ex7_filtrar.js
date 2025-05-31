@@ -5,7 +5,7 @@ function filtrarPares(arr) {
         let numero = arr[i];
 
         if (numero % 2 === 0) {
-            numerosPares.push(numero)
+            numerosPares.push(numero);
         }
     }
 
@@ -13,4 +13,4 @@ function filtrarPares(arr) {
 
 }
 
-console.log(filtrarPares([1, 2, 3, 4, 5, 6]))
+console.log(filtrarPares([1, 2, 3, 4, 5, 6]));
