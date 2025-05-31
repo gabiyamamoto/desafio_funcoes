@@ -15,5 +15,4 @@ console.log(inverteString("Thiago"))
 // a b c d e
 // 0 1 2 3 4 <- 4 é o último índice da string
 
-// O .length conta que existem 5 letras, o que não tá errado. Mas inventaram a palhaçada de que o índice começa em 0.
-// Por isso tem que fazer o .length -1.
+// O .length conta que existem 5 letras, o que não tá errado. Mas como o índice começa em 0, tem que faer .length -1
