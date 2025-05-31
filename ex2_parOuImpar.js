@@ -6,7 +6,7 @@ function parOuImpar(numero) {
     }
 }
 
+console.log(parOuImpar(-8));
 console.log(parOuImpar(4));
 console.log(parOuImpar(17));
 console.log(parOuImpar(0));
-console.log(parOuImpar(-8));
