@@ -14,4 +14,4 @@ console.log(fatorial(9));
 // Primeiro ciclo: 5! = 1 * 2 = 2
 // O produto da multplicação do primeiro ciclo (que é 2) vai ser guardado em uma "caixa"
 // Agora no segundo ciclo, o valor dentro dessa caixa vai substituir o 1 na conta, e como i aumentou +1 pois o loop ta rodando, vai ficar: 2 * 3 = 6
-// A mesma coisa vai se repetir, pois vamos o valor antigo que estava na caixa (que era 2) e botar o 6 dentro.
+// A mesma coisa vai se repetir, pois vamos tirar o valor antigo que estava na caixa (que era 2) e botar o 6 dentro.
